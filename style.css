@@ -1,0 +1,34 @@
+body{
+    background-color: black;
+    color: white;
+    text-align: center;
+    
+}
+#jeden{
+    margin-top: 15%;
+}
+#dwa{
+    display: none;
+    margin-top: 5%;
+}
+#trzy{
+    display: none;
+    margin-top: 15%;
+}
+.przycisk{
+    height: 50px;
+    width: 300px;
+}
+#img{
+    width: 200px;
+    height: 400px;
+}
+/*center img */
+#img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    width: 50%;
+}
